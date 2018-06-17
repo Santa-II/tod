@@ -1,0 +1,5 @@
+Unidecode==0.04.21
+django_tinymce==2.7.0
+django_froala_editor==2.7.3
+Django==2.0.1
+beautifulsoup4==4.6.0
